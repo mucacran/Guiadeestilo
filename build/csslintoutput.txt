@@ -1,0 +1,506 @@
+
+
+csslint: There are 101 problems in D:\Sergio\BYUi\WDD331\semana5\style-guide-template\build\style-guide.62cc1745.css.
+
+style-guide.62cc1745.css
+1: warning at line 5, col 1
+Rule doesn't have all its properties in alphabetical order.
+html, body, div, span, applet, object, iframe,
+
+style-guide.62cc1745.css
+2: warning at line 60, col 1
+Heading (h1) has already been defined.
+h1,
+
+style-guide.62cc1745.css
+3: warning at line 60, col 1
+Rule doesn't have all its properties in alphabetical order.
+h1,
+
+style-guide.62cc1745.css
+4: warning at line 61, col 1
+Heading (h2) has already been defined.
+h2 {
+
+style-guide.62cc1745.css
+5: warning at line 66, col 1
+Heading (h1) has already been defined.
+h1 {
+
+style-guide.62cc1745.css
+6: warning at line 73, col 3
+Heading (h1) has already been defined.
+  h1 {
+
+style-guide.62cc1745.css
+7: warning at line 78, col 3
+Heading (h1) has already been defined.
+  h1 {
+
+style-guide.62cc1745.css
+8: warning at line 83, col 1
+Heading (h2) has already been defined.
+h2 {
+
+style-guide.62cc1745.css
+9: warning at line 83, col 1
+Rule doesn't have all its properties in alphabetical order.
+h2 {
+
+style-guide.62cc1745.css
+10: warning at line 89, col 3
+Heading (h2) has already been defined.
+  h2 {
+
+style-guide.62cc1745.css
+11: warning at line 95, col 11
+Heading (h2) should not be qualified.
+section > h2::before {
+
+style-guide.62cc1745.css
+12: warning at line 100, col 1
+Rule doesn't have all its properties in alphabetical order.
+p {
+
+style-guide.62cc1745.css
+13: warning at line 121, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-box {
+
+style-guide.62cc1745.css
+14: warning at line 135, col 1
+Rule doesn't have all its properties in alphabetical order.
+.btn {
+
+style-guide.62cc1745.css
+15: warning at line 146, col 1
+Outlines shouldn't be hidden unless other visual changes are made.
+.btn:focus {
+
+style-guide.62cc1745.css
+16: warning at line 152, col 1
+Adjoining classes: .btn.btn-success
+.btn.btn-success {
+
+style-guide.62cc1745.css
+17: warning at line 155, col 11
+Adjoining classes: .no-touch   .btn.btn-success:hover
+.no-touch .btn.btn-success:hover {
+
+style-guide.62cc1745.css
+18: warning at line 155, col 11
+Adjoining classes: .no-touch   .btn.btn-success:hover
+.no-touch .btn.btn-success:hover {
+
+style-guide.62cc1745.css
+19: warning at line 158, col 1
+Adjoining classes: .btn.btn-alert
+.btn.btn-alert {
+
+style-guide.62cc1745.css
+20: warning at line 161, col 11
+Adjoining classes: .no-touch   .btn.btn-alert:hover
+.no-touch .btn.btn-alert:hover {
+
+style-guide.62cc1745.css
+21: warning at line 161, col 11
+Adjoining classes: .no-touch   .btn.btn-alert:hover
+.no-touch .btn.btn-alert:hover {
+
+style-guide.62cc1745.css
+22: warning at line 164, col 1
+Adjoining classes: .btn.btn-outline
+.btn.btn-outline {
+
+style-guide.62cc1745.css
+23: warning at line 164, col 1
+Rule doesn't have all its properties in alphabetical order.
+.btn.btn-outline {
+
+style-guide.62cc1745.css
+24: warning at line 169, col 11
+Adjoining classes: .no-touch   .btn.btn-outline:hover
+.no-touch .btn.btn-outline:hover {
+
+style-guide.62cc1745.css
+25: warning at line 169, col 11
+Adjoining classes: .no-touch   .btn.btn-outline:hover
+.no-touch .btn.btn-outline:hover {
+
+style-guide.62cc1745.css
+26: warning at line 169, col 1
+Rule doesn't have all its properties in alphabetical order.
+.no-touch .btn.btn-outline:hover {
+
+style-guide.62cc1745.css
+27: warning at line 213, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-main-nav li a {
+
+style-guide.62cc1745.css
+28: warning at line 221, col 3
+Rule doesn't have all its properties in alphabetical order.
+  .cd-main-nav li a.selected {
+
+style-guide.62cc1745.css
+29: warning at line 221, col 19
+Element (a.selected) is overqualified, just use .selected without element name.
+  .cd-main-nav li a.selected {
+
+style-guide.62cc1745.css
+30: warning at line 241, col 3
+Fallback background-color (hex or RGB) should precede RGBA background-color.
+  background-color: rgba(255, 255, 255, 0);
+
+style-guide.62cc1745.css
+31: warning at line 270, col 8
+Heading (h1) should not be qualified.
+main > h1 {
+
+style-guide.62cc1745.css
+32: warning at line 270, col 8
+Heading (h1) has already been defined.
+main > h1 {
+
+style-guide.62cc1745.css
+33: warning at line 274, col 10
+Heading (h1) should not be qualified.
+  main > h1 {
+
+style-guide.62cc1745.css
+34: warning at line 274, col 10
+Heading (h1) has already been defined.
+  main > h1 {
+
+style-guide.62cc1745.css
+35: warning at line 290, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-icons li {
+
+style-guide.62cc1745.css
+36: warning at line 301, col 1
+Rule doesn't have all its properties in alphabetical order.
+input[type=text],
+
+style-guide.62cc1745.css
+37: warning at line 307, col 1
+Outlines shouldn't be hidden unless other visual changes are made.
+input[type=text]:focus,
+
+style-guide.62cc1745.css
+38: warning at line 312, col 1
+Rule doesn't have all its properties in alphabetical order.
+input[type=text] {
+
+style-guide.62cc1745.css
+39: warning at line 316, col 1
+Element (input[type=text].success) is overqualified, just use .success without element name.
+input[type=text].success {
+
+style-guide.62cc1745.css
+40: warning at line 320, col 1
+Element (input[type=text].alert) is overqualified, just use .alert without element name.
+input[type=text].alert {
+
+style-guide.62cc1745.css
+41: warning at line 329, col 1
+Rule doesn't have all its properties in alphabetical order.
+input[type=radio],
+
+style-guide.62cc1745.css
+42: warning at line 347, col 1
+Rule doesn't have all its properties in alphabetical order.
+.radio-label::before, .radio-label::after,
+
+style-guide.62cc1745.css
+43: warning at line 363, col 1
+Rule doesn't have all its properties in alphabetical order.
+.radio-label::before,
+
+style-guide.62cc1745.css
+44: warning at line 369, col 1
+Rule doesn't have all its properties in alphabetical order.
+.radio-label::after,
+
+style-guide.62cc1745.css
+45: warning at line 396, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-select::after {
+
+style-guide.62cc1745.css
+46: warning at line 415, col 1
+Rule doesn't have all its properties in alphabetical order.
+select {
+
+style-guide.62cc1745.css
+47: warning at line 431, col 1
+The universal selector (*) is known to be slow.
+*, *::after, *::before {
+
+style-guide.62cc1745.css
+48: warning at line 431, col 4
+The universal selector (*) is known to be slow.
+*, *::after, *::before {
+
+style-guide.62cc1745.css
+49: warning at line 431, col 14
+The universal selector (*) is known to be slow.
+*, *::after, *::before {
+
+style-guide.62cc1745.css
+50: warning at line 434, col 3
+The box-sizing property isn't supported in IE6 and IE7.
+  box-sizing: border-box;
+
+style-guide.62cc1745.css
+51: warning at line 437, col 6
+The universal selector (*) is known to be slow.
+html * {
+
+style-guide.62cc1745.css
+52: warning at line 446, col 1
+Rule doesn't have all its properties in alphabetical order.
+body {
+
+style-guide.62cc1745.css
+53: warning at line 464, col 1
+Rule doesn't have all its properties in alphabetical order.
+header {
+
+style-guide.62cc1745.css
+54: warning at line 492, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-logo img {
+
+style-guide.62cc1745.css
+55: warning at line 509, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-nav-trigger {
+
+style-guide.62cc1745.css
+56: warning at line 520, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-nav-trigger span {
+
+style-guide.62cc1745.css
+57: warning at line 532, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-nav-trigger span::before, .cd-nav-trigger span::after {
+
+style-guide.62cc1745.css
+58: warning at line 570, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-main-nav {
+
+style-guide.62cc1745.css
+59: warning at line 576, col 3
+Using height with padding can sometimes make elements larger than you expect.
+  padding: 50px 0;
+
+style-guide.62cc1745.css
+60: warning at line 587, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-main-nav li a {
+
+style-guide.62cc1745.css
+61: warning at line 598, col 3
+Rule doesn't have all its properties in alphabetical order.
+  .cd-main-nav {
+
+style-guide.62cc1745.css
+62: warning at line 612, col 3
+Rule doesn't have all its properties in alphabetical order.
+  .cd-main-nav li {
+
+style-guide.62cc1745.css
+63: warning at line 617, col 3
+Rule doesn't have all its properties in alphabetical order.
+  .cd-main-nav li a {
+
+style-guide.62cc1745.css
+64: warning at line 658, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-download {
+
+style-guide.62cc1745.css
+65: warning at line 672, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-download span {
+
+style-guide.62cc1745.css
+66: warning at line 688, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-download span::before {
+
+style-guide.62cc1745.css
+67: warning at line 702, col 1
+Rule doesn't have all its properties in alphabetical order.
+.no-touch .cd-download:hover span {
+
+style-guide.62cc1745.css
+68: warning at line 724, col 1
+Rule doesn't have all its properties in alphabetical order.
+main {
+
+style-guide.62cc1745.css
+69: warning at line 730, col 8
+Heading (h1) should not be qualified.
+main > h1 {
+
+style-guide.62cc1745.css
+70: warning at line 730, col 8
+Heading (h1) has already been defined.
+main > h1 {
+
+style-guide.62cc1745.css
+71: warning at line 730, col 1
+Rule doesn't have all its properties in alphabetical order.
+main > h1 {
+
+style-guide.62cc1745.css
+72: warning at line 744, col 10
+Heading (h1) should not be qualified.
+  main > h1 {
+
+style-guide.62cc1745.css
+73: warning at line 744, col 10
+Heading (h1) has already been defined.
+  main > h1 {
+
+style-guide.62cc1745.css
+74: warning at line 744, col 3
+Rule doesn't have all its properties in alphabetical order.
+  main > h1 {
+
+style-guide.62cc1745.css
+75: warning at line 765, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(1) h2::before {
+
+style-guide.62cc1745.css
+76: warning at line 768, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(2) h2::before {
+
+style-guide.62cc1745.css
+77: warning at line 771, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(3) h2::before {
+
+style-guide.62cc1745.css
+78: warning at line 774, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(4) h2::before {
+
+style-guide.62cc1745.css
+79: warning at line 777, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(5) h2::before {
+
+style-guide.62cc1745.css
+80: warning at line 780, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(6) h2::before {
+
+style-guide.62cc1745.css
+81: warning at line 783, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(7) h2::before {
+
+style-guide.62cc1745.css
+82: warning at line 786, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(8) h2::before {
+
+style-guide.62cc1745.css
+83: warning at line 789, col 24
+Heading (h2) should not be qualified.
+section:nth-of-type(9) h2::before {
+
+style-guide.62cc1745.css
+84: warning at line 792, col 25
+Heading (h2) should not be qualified.
+section:nth-of-type(10) h2::before {
+
+style-guide.62cc1745.css
+85: warning at line 801, col 3
+Rule doesn't have all its properties in alphabetical order.
+  section {
+
+style-guide.62cc1745.css
+86: warning at line 826, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-branding ul:last-of-type li:nth-of-type(1) img {
+
+style-guide.62cc1745.css
+87: warning at line 831, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-branding ul:last-of-type li:nth-of-type(2) img {
+
+style-guide.62cc1745.css
+88: warning at line 836, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-branding ul:last-of-type li:nth-of-type(3) img {
+
+style-guide.62cc1745.css
+89: warning at line 841, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-branding ul:last-of-type li:nth-of-type(4) img {
+
+style-guide.62cc1745.css
+90: warning at line 847, col 3
+Rule doesn't have all its properties in alphabetical order.
+  .cd-branding .cd-box {
+
+style-guide.62cc1745.css
+91: warning at line 864, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-colors li {
+
+style-guide.62cc1745.css
+92: warning at line 873, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-colors .cd-color-swatch {
+
+style-guide.62cc1745.css
+93: warning at line 878, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-colors .cd-color-swatch::before, .cd-colors .cd-color-swatch::after {
+
+style-guide.62cc1745.css
+94: warning at line 942, col 3
+Rule doesn't have all its properties in alphabetical order.
+  .cd-colors li {
+
+style-guide.62cc1745.css
+95: warning at line 971, col 16
+Heading (h1) should not be qualified.
+.cd-typography h1::before {
+
+style-guide.62cc1745.css
+96: warning at line 971, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-typography h1::before {
+
+style-guide.62cc1745.css
+97: warning at line 980, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-buttons .cd-box:last-of-type {
+
+style-guide.62cc1745.css
+98: warning at line 995, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-icons li {
+
+style-guide.62cc1745.css
+99: warning at line 1031, col 1
+Rule doesn't have all its properties in alphabetical order.
+.cd-form .cd-input-wrapper {
+
+style-guide.62cc1745.css
+100: warning
+Too many font-size declarations (16), abstraction needed.
+
+style-guide.62cc1745.css
+101: warning
+You have 9 h1s, 4 h2s defined in this stylesheet.
